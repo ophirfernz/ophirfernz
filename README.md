@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ophir fernandes</h1>
-<h3 align="center">A passionate DevOps and a frontend developer from India based in goa</h3>
+<h3 align="center">A passionate DevOps and a frontend developer from India based in Goa</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ophirfernz&label=Profile%20views&color=0e75b6&style=flat" alt="ophirfernz" /> </p>
 
